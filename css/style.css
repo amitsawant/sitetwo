@@ -57,10 +57,10 @@ body {
 	background:url(../images/bg_img2.jpg) center 560px no-repeat #eaeaea
 }
 .body2 {
-	background:url(../images/bg_top_repeat.jpg) top repeat-x
+	background:url(../images/bg_top_repeat.jpg)repeat-x scroll 6px -414px;
 }
 .body3 {
-	background:url(../images/bg_top_img.jpg) top center no-repeat
+	/*background:url(../images/bg_top_img.jpg) top center no-repeat */
 }
 .body4 {
 	background:url(../images/bg_content.gif) top repeat-x #363636
